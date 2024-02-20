@@ -1,4 +1,4 @@
-class TwoFactorAuthenticationAddTo<%= table_name.camelize %> < ActiveRecord::Migration
+class TwoFactorAuthenticationAddTo<%= table_name.camelize %> < ActiveRecord::Migration[7.1]
   disable_ddl_transaction!
 
   def change
