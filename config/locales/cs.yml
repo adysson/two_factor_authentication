@@ -1,0 +1,8 @@
+cs:
+  devise:
+    two_factor_authentication:
+      success: "Jste úspěšně přihlášeni"
+      attempt_failed: "Špatný kód"
+      max_login_attempts_reached: "Přístup jsme Vám zablokovali, dosáhli jste limitu neúspěšných pokusů o přihlášení"
+      contact_administrator: "Prosím kontaktujte administrátora."
+      code_has_been_sent: "Na Vaše telefonní číslo jsme odeslali kód pro přihlášení."
